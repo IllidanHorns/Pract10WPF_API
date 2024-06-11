@@ -1,0 +1,6 @@
+@APIPract10WPF2_HostAddress = http://localhost:5030
+
+GET {{APIPract10WPF2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

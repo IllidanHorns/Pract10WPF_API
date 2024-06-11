@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIPract10WPF2.props" />
+</Project>
