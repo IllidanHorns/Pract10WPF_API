@@ -59,6 +59,7 @@ public partial class Pract10WpfDbContext : DbContext
             entity.Property(e => e.IdAppoinmentDocument)
                 .ValueGeneratedNever()
                 .HasColumnName("ID_AppoinmentDocument");
+            entity.Property(e => e.NameAnalys).HasColumnName("NameAnalys");
             entity.Property(e => e.Rtf).HasColumnName("RTF");
 
         });
@@ -144,6 +145,7 @@ public partial class Pract10WpfDbContext : DbContext
             entity.Property(e => e.Attachment)
                 .HasMaxLength(1)
                 .IsFixedLength();
+            entity.Property(e => e.NameResearch).HasColumnName("NameResearch");
             entity.Property(e => e.Rtf).HasColumnName("RTF");
         });
 
@@ -153,6 +155,7 @@ public partial class Pract10WpfDbContext : DbContext
 
             entity.Property(e => e.IdSpecialist).HasColumnName("ID_Specialist");
             entity.Property(e => e.SpecialistName).HasMaxLength(50);
+            entity.Property(e => e.SpecialistPhotoName).HasMaxLength(200);
         });
 
         modelBuilder.Entity<Status>(entity =>

@@ -262,3 +262,4 @@ D:\Users\illid\source\APIPract10WPF2\APIPract10WPF2\obj\Release\net8.0\refint\AP
 D:\Users\illid\source\APIPract10WPF2\APIPract10WPF2\obj\Release\net8.0\APIPract10WPF2.pdb
 D:\Users\illid\source\APIPract10WPF2\APIPract10WPF2\obj\Release\net8.0\APIPract10WPF2.genruntimeconfig.cache
 D:\Users\illid\source\APIPract10WPF2\APIPract10WPF2\obj\Release\net8.0\ref\APIPract10WPF2.dll
+D:\Users\illid\source\APIPract10WPF2\APIPract10WPF2\obj\Release\net8.0\APIPract10WPF2.sourcelink.json

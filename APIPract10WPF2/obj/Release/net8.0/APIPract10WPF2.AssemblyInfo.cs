@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIPract10WPF2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3703472f5c5ecf5ce1276c4ddfe300d9b72db6")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIPract10WPF2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIPract10WPF2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

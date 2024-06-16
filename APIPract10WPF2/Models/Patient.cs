@@ -17,7 +17,7 @@ public partial class Patient
 
     public string AddressOfPatient { get; set; } = null!;
 
-    public string LivingAddress { get; set; } = null!;
+    public string? LivingAddress { get; set; }
 
     public string? Phone { get; set; }
 

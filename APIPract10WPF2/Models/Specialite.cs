@@ -9,4 +9,6 @@ public partial class Specialite
 
     public string SpecialistName { get; set; } = null!;
 
+    public string SpecialistPhotoName { get; set; } = null!;
+
 }
